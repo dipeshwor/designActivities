@@ -1,4 +1,2 @@
-designActivities
-================
-
-activities from the design aesthetics workshop
+Design aesthetics workshop
+Please add your activities and home assignments to this repo 
